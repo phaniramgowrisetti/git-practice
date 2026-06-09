@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #eef1db;
+}
+img{
+    width: 300px;
+    height: 400px;
+    display: inline-block;
+    object-fit: cover;
+    margin: 10px;
+    border-radius: 5px;
+    border: 5px solid #dc889a;
+
+}
+.product-info{
+    display: inline-block;
+
+}
